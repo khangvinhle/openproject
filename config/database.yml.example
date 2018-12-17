@@ -33,7 +33,7 @@ production:
   database: openproject
   host: localhost
   username: root
-  password: kiet123
+  password: 
   # For MySQL 5.6 or older, set encoding to utf8.
   encoding: utf8mb4
   variables:
@@ -54,7 +54,7 @@ development:
   database: openproject_development
   host: localhost
   username: root
-  password: kiet123
+  password: 
   # For MySQL 5.6 or older, set encoding to utf8.
   encoding: utf8mb4
   variables:
@@ -78,7 +78,7 @@ test:
   database: openproject_test
   host: localhost
   username: root
-  password: kiet123
+  password: 
   # For MySQL 5.6 or older, set encoding to utf8.
   encoding: utf8mb4
   pool: 20
